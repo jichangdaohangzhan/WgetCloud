@@ -57,6 +57,7 @@ WgetCloud 全球加速机场年付套餐
 年付：￥828/年，320G流量/月。
 
 
+![image](https://github.com/user-attachments/assets/7dc19a26-db2c-421e-9a3e-ace06ebcc60c)
 
 
 

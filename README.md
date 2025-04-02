@@ -7,12 +7,13 @@ WgetCloud 机场使用的早期支持 Shadowsocks 、SSR、V2ray（vmess）、Tr
 
 机场对线路节点采取分组制，单组用户人数满400后便不会增加人数，加上对节点采取了动态限速，有效保证线路稳定行。
 
-新用户购买 WgetCloud 即享8折体验，自动启用，仅限新用户，老用户无法享受该折扣。
 
 付款方式支持支付宝，微信、USDT 加密货币。
 
+## WgetCloud官方优惠码
+新用户购买 WgetCloud 即享8折体验，自动启用，仅限新用户，老用户无法享受该折扣。
 
-[WgetCloud机场官方入口](https://invite.wgetcloud.ltd/auth/register?code=mVGoGI)
+[WgetCloud机场官方入口](https://invite.wgetcloud.ltd/auth/register?code=ANbbJK)
 * * *
 
 [**» 进入星云机场-优惠活动中-高速/稳定/性价比推荐-年付58元600GB、88元2300GB、送小火箭ID、小白专属客户端，1秒上手**](https://aa.silos.top/lepl/sxdxZeA8VV)以其出色的性价比和稳定性与优质的服务获得众多外贸公司、科研人员、博主一致好评，复购率很高。
